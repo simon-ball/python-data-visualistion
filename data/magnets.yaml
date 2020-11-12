@@ -1,0 +1,1700 @@
+- class: CoilPair
+  dimensions:
+    axDash: 0
+    axial layers: 8
+    axial spacing: 0.0041
+    azDash: 0
+    configuration: ahh
+    full spacing: 0.1
+    radial layers: 8
+    radial spacing: 0.0041
+    radius: 0.118
+    shape: circ
+    spatially distributed: true
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0
+  - 0
+  - 0
+  phi: 0.0
+  strength: 25
+  theta: 0.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.064
+  - -0.0045000000000000005
+  - -0.34500000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.064
+  - -0.0045000000000000005
+  - -0.34500000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.064
+  - -0.0045000000000000005
+  - -0.34500000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.064
+  - -0.0045000000000000005
+  - -0.34500000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.064
+  - -0.0015
+  - -0.34500000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.064
+  - -0.0015
+  - -0.34500000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.064
+  - -0.0015
+  - -0.34500000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.064
+  - -0.0015
+  - -0.34500000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.064
+  - 0.0015
+  - -0.34500000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.064
+  - 0.0015
+  - -0.34500000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.064
+  - 0.0015
+  - -0.34500000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.064
+  - 0.0015
+  - -0.34500000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.064
+  - 0.0045000000000000005
+  - -0.34500000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.064
+  - 0.0045000000000000005
+  - -0.34500000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.064
+  - 0.0045000000000000005
+  - -0.34500000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.064
+  - 0.0045000000000000005
+  - -0.34500000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.055
+  - -0.0045000000000000005
+  - -0.314
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.055
+  - -0.0045000000000000005
+  - -0.314
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.055
+  - -0.0045000000000000005
+  - -0.314
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.055
+  - -0.0045000000000000005
+  - -0.314
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.055
+  - -0.0015
+  - -0.314
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.055
+  - -0.0015
+  - -0.314
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.055
+  - -0.0015
+  - -0.314
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.055
+  - -0.0015
+  - -0.314
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.055
+  - 0.0015
+  - -0.314
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.055
+  - 0.0015
+  - -0.314
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.055
+  - 0.0015
+  - -0.314
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.055
+  - 0.0015
+  - -0.314
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.055
+  - 0.0045000000000000005
+  - -0.314
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.055
+  - 0.0045000000000000005
+  - -0.314
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.055
+  - 0.0045000000000000005
+  - -0.314
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.055
+  - 0.0045000000000000005
+  - -0.314
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.057
+  - -0.0045000000000000005
+  - -0.28400000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.057
+  - -0.0045000000000000005
+  - -0.28400000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.057
+  - -0.0045000000000000005
+  - -0.28400000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.057
+  - -0.0045000000000000005
+  - -0.28400000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.057
+  - -0.0015
+  - -0.28400000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.057
+  - -0.0015
+  - -0.28400000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.057
+  - -0.0015
+  - -0.28400000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.057
+  - -0.0015
+  - -0.28400000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.057
+  - 0.0015
+  - -0.28400000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.057
+  - 0.0015
+  - -0.28400000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.057
+  - 0.0015
+  - -0.28400000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.057
+  - 0.0015
+  - -0.28400000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.057
+  - 0.0045000000000000005
+  - -0.28400000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.057
+  - 0.0045000000000000005
+  - -0.28400000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.057
+  - 0.0045000000000000005
+  - -0.28400000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.057
+  - 0.0045000000000000005
+  - -0.28400000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.056
+  - -0.0045000000000000005
+  - -0.254
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.056
+  - -0.0045000000000000005
+  - -0.254
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.056
+  - -0.0045000000000000005
+  - -0.254
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.056
+  - -0.0045000000000000005
+  - -0.254
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.056
+  - -0.0015
+  - -0.254
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.056
+  - -0.0015
+  - -0.254
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.056
+  - -0.0015
+  - -0.254
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.056
+  - -0.0015
+  - -0.254
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.056
+  - 0.0015
+  - -0.254
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.056
+  - 0.0015
+  - -0.254
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.056
+  - 0.0015
+  - -0.254
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.056
+  - 0.0015
+  - -0.254
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.056
+  - 0.0045000000000000005
+  - -0.254
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.056
+  - 0.0045000000000000005
+  - -0.254
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.056
+  - 0.0045000000000000005
+  - -0.254
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.056
+  - 0.0045000000000000005
+  - -0.254
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.056
+  - -0.0045000000000000005
+  - -0.22400000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.056
+  - -0.0045000000000000005
+  - -0.22400000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.056
+  - -0.0045000000000000005
+  - -0.22400000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.056
+  - -0.0045000000000000005
+  - -0.22400000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.056
+  - -0.0015
+  - -0.22400000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.056
+  - -0.0015
+  - -0.22400000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.056
+  - -0.0015
+  - -0.22400000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.056
+  - -0.0015
+  - -0.22400000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.056
+  - 0.0015
+  - -0.22400000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.056
+  - 0.0015
+  - -0.22400000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.056
+  - 0.0015
+  - -0.22400000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.056
+  - 0.0015
+  - -0.22400000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.056
+  - 0.0045000000000000005
+  - -0.22400000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.056
+  - 0.0045000000000000005
+  - -0.22400000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.056
+  - 0.0045000000000000005
+  - -0.22400000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.056
+  - 0.0045000000000000005
+  - -0.22400000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.079
+  - -0.0045000000000000005
+  - -0.34500000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.079
+  - -0.0045000000000000005
+  - -0.34500000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.079
+  - -0.0045000000000000005
+  - -0.34500000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.079
+  - -0.0045000000000000005
+  - -0.34500000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.079
+  - -0.0015
+  - -0.34500000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.079
+  - -0.0015
+  - -0.34500000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.079
+  - -0.0015
+  - -0.34500000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.079
+  - -0.0015
+  - -0.34500000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.079
+  - 0.0015
+  - -0.34500000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.079
+  - 0.0015
+  - -0.34500000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.079
+  - 0.0015
+  - -0.34500000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.079
+  - 0.0015
+  - -0.34500000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.079
+  - 0.0045000000000000005
+  - -0.34500000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.079
+  - 0.0045000000000000005
+  - -0.34500000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.079
+  - 0.0045000000000000005
+  - -0.34500000000000003
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.01
+    ayDash: 0.003
+    azDash: 0.025
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.079
+  - 0.0045000000000000005
+  - -0.34500000000000003
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.025
+    ayDash: 0.003
+    azDash: 0.01
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.059
+  - -0.0045000000000000005
+  - -0.202
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.025
+    ayDash: 0.003
+    azDash: 0.01
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.059
+  - -0.0045000000000000005
+  - -0.202
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.025
+    ayDash: 0.003
+    azDash: 0.01
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.059
+  - -0.0045000000000000005
+  - -0.202
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.025
+    ayDash: 0.003
+    azDash: 0.01
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.059
+  - -0.0045000000000000005
+  - -0.202
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.025
+    ayDash: 0.003
+    azDash: 0.01
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.059
+  - -0.0015
+  - -0.202
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.025
+    ayDash: 0.003
+    azDash: 0.01
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.059
+  - -0.0015
+  - -0.202
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.025
+    ayDash: 0.003
+    azDash: 0.01
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.059
+  - -0.0015
+  - -0.202
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.025
+    ayDash: 0.003
+    azDash: 0.01
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.059
+  - -0.0015
+  - -0.202
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.025
+    ayDash: 0.003
+    azDash: 0.01
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.059
+  - 0.0015
+  - -0.202
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.025
+    ayDash: 0.003
+    azDash: 0.01
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.059
+  - 0.0015
+  - -0.202
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.025
+    ayDash: 0.003
+    azDash: 0.01
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.059
+  - 0.0015
+  - -0.202
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.025
+    ayDash: 0.003
+    azDash: 0.01
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.059
+  - 0.0015
+  - -0.202
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.025
+    ayDash: 0.003
+    azDash: 0.01
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.059
+  - 0.0045000000000000005
+  - -0.202
+  phi: 0.0
+  strength: -880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.025
+    ayDash: 0.003
+    azDash: 0.01
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.059
+  - 0.0045000000000000005
+  - -0.202
+  phi: 0.0
+  strength: 880000.0
+  theta: 45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.025
+    ayDash: 0.003
+    azDash: 0.01
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.059
+  - 0.0045000000000000005
+  - -0.202
+  phi: 0.0
+  strength: 880000.0
+  theta: -45.0
+- class: PermanentMagnet
+  dimensions:
+    axDash: 0.025
+    ayDash: 0.003
+    azDash: 0.01
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - -0.059
+  - 0.0045000000000000005
+  - -0.202
+  phi: 0.0
+  strength: -880000.0
+  theta: -45.0
+- class: CoilPair
+  dimensions:
+    axDash: 0.065
+    axial layers: 7
+    axial spacing: 0.001
+    azDash: 0.268
+    configuration: hh
+    full spacing: 0.215
+    radial layers: 7
+    radial spacing: 0.001
+    radius: 0
+    shape: rect
+    spatially distributed: true
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0
+  - 0
+  - 0
+  phi: 0.0
+  strength: 1
+  theta: 90.0
+- class: CoilPair
+  dimensions:
+    axDash: 0.08
+    axial layers: 7
+    axial spacing: 0.001
+    azDash: 0.08
+    configuration: hh
+    full spacing: 0.328
+    radial layers: 7
+    radial spacing: 0.001
+    radius: 0
+    shape: rect
+    spatially distributed: true
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0
+  - 0
+  - 0
+  phi: 90.0
+  strength: 1
+  theta: 0.0
+- class: CoilPair
+  dimensions:
+    axDash: 0.08
+    axial layers: 7
+    axial spacing: 0.001
+    azDash: 0.08
+    configuration: hh
+    full spacing: 0.328
+    radial layers: 7
+    radial spacing: 0.001
+    radius: 0
+    shape: rect
+    spatially distributed: true
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0
+  - 0
+  - 0
+  phi: 0.0
+  strength: 1
+  theta: 0.0
+- class: CoilPair
+  dimensions:
+    axDash: 0.04
+    axial layers: 10
+    axial spacing: 0.001
+    azDash: 0.1
+    configuration: hh
+    full spacing: 0.092
+    radial layers: 9
+    radial spacing: 0.001
+    radius: 0
+    shape: rect
+    spatially distributed: true
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.0
+  - 0.0
+  - -0.269
+  phi: 0.0
+  strength: 1
+  theta: 0.0
+- class: CoilPair
+  dimensions:
+    axDash: 0.04
+    axial layers: 10
+    axial spacing: 0.001
+    azDash: 0.1
+    configuration: hh
+    full spacing: 0.092
+    radial layers: 9
+    radial spacing: 0.001
+    radius: 0
+    shape: rect
+    spatially distributed: true
+  mfs_version: 1.2.0
+  name: ''
+  origin:
+  - 0.0
+  - 0.0
+  - -0.269
+  phi: 0.0
+  strength: 1
+  theta: 90.0

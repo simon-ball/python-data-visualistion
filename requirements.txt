@@ -1,0 +1,5 @@
+matplotlib
+numpy
+plotly
+dash
+git+https://github.com/swball/nqo-mfs.git@dev
